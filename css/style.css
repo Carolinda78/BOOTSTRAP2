@@ -251,11 +251,11 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     width: 100%;
-    background-color: rgb(88, 192, 170);
+    background-color: rgb(150, 221, 206);
     padding: 5px;
     border-radius: 7px;
-    border-color: rgb(232, 224, 240);
-    border:2px solid rgb(196, 130, 185) ;
+    border-color: rgb(252, 12, 176);
+    border:5px solid rgb(196, 130, 185) ;
     
     
 }
